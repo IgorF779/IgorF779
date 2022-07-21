@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/igor/igor/blob/output/snake.svg" alt="Snake animation" />
-
-###
