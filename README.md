@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have experience in team work, still learning a couple of different programming languages and I'm in my second period of my university</p>
+<p align="left">I have experience in team work, still learning a couple of different programming languages </p>
 
 ###
 
